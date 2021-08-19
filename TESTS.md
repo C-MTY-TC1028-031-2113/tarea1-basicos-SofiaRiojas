@@ -13,7 +13,7 @@ sudo -H pip3 install pytest
 - ## 01 Promedio Calificaciones
     ### Run command
     ```
-    pytest assignments/01Promedio
+                             
     ```
 
 - ## 02 Calcula peso por mes
