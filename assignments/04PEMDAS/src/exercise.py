@@ -11,10 +11,12 @@ oper3= oper3= (a**3 + 2*b**2) / 4*a
 print = (oper3)
 oper4= ((2*(a+b)**2) + (4*(a-b)**2)) / (a*(b**2))
 print = (oper4)
+oper5 = math.sqrt(((a+b)**2+2**(a+b)) / (2*a+2*b)**2)
+print = (oper5)
 
 
 
-#profe, lo cheque en Thonny y se me dejo, pero aqui no me sirve el "import math"
+#profe, lo cheque en Thonny y se me dejo, pero aqui no me sirve el "import math, tambien en la ultima intente de varias formas y no de daba."
 
 if __name__ == '__main__':
     main()
