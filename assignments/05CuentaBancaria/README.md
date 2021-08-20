@@ -14,7 +14,7 @@ if __name__ == '__main__':
 ```
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
-
+#saldofinal = ((((saldo-ingresos-egresos))*0.75)-(13*cheques))
 Modifica el programa para que haga lo siguiente:
 
 Un banco cobra el 7.5% de interés mensual sobre el saldo final de una cuenta. Además, cada cheque expedido tiene un costo de 13 pesos. Realiza un programa para obtener el saldo mensual de una cuenta en este banco tomando en cuenta el saldo del mes anterior, los ingresos, los egresos y el número de cheques expedidos.
@@ -32,8 +32,8 @@ Salida: Un número decimal que represente el saldo final de la cuenta en ese mes
 Ejemplo:
 ```
 Dame el saldo del mes anterior: 100.1
-Dame los ingresos: 57.38
-Dame los egresos: 5.23
+Dame los ingresos: 57.38 
+Dame los egresos: 5.23 
 Dame el número de cheques: 2
 El saldo final de la cuenta es: 116.78125
 ```
